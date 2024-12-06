@@ -1,4 +1,4 @@
-# PR etiquette
+# PR etiquette - please fill this out
 
 - Github User Story ID: US-
 - [ ] Tests for the changes have been added (for bug fixes / features)
